@@ -11,5 +11,4 @@ export class User {
 
     @Column()
     phone: string;
-
 }
